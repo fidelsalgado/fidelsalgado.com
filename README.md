@@ -1,1 +1,1 @@
-Hello! I'm Fidel an engineer at [Stripe](https://stripe.com/) working on adding new LATAM payment methods. I'm from El Salvador 🇸🇻 but I've been living in the Bay Area for the past 9 years. If you'd like to get in touch feel free to shoot me an email: contact at fidelsalgado.com.
+Hello! I'm Fidel a software engineer based in San Francisco. I'm from El Salvador 🇸🇻 but I've been living in the Bay Area for the past 12 years.
